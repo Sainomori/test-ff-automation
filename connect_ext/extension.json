@@ -1,0 +1,8 @@
+{
+  "name": "My Awesome Project2",
+  "description": "Project description",
+  "version": "0.1.0",
+  "audience": ["vendor"],
+  "readme_url": "https://example.com/README.md",
+  "changelog_url": "https://example.com/CHANGELOG.md"
+}
